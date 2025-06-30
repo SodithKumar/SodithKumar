@@ -110,7 +110,7 @@ I am a student,  From very early on in my life, I started to fall in love with t
 -   Ethical Hacking
 - Unlock the secret to the technology ::
 ## Some stats about me :
-<img alt="sodith github stats" src="https://github-readme-stats.vercel.app/api?username=sodith&&show_icons=true&title_color=7d14d8&icon_color=00ffff&text_color=daf7dc&bg_color=151515" >
+<img alt="sodith github stats" src="https://github-readme-stats.vercel.app/api?username=SodithKumar&&show_icons=true&title_color=7d14d8&icon_color=00ffff&text_color=daf7dc&bg_color=151515" >
 
 <p align="center">
   <b><i>Let's Connect !! Find Me On The Web. 👋</i></b>
