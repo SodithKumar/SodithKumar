@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi 👋, I'm Sodith Kumar <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
 <div align="center">
-❤️ Programming | 🖤 WebDevelopment | 💙 UI/UX Designer
+❤️ Backend Developer | 🖤 Java Developer | 💙 Python Developer
 </div>
 
 <img align='right' src='https://64.media.tumblr.com/e1e8233fe28f4b71b0fb980dd16f44e7/7ad6e582a05cd4ce-39/s1280x1920/fe591cc780748d4ad6a5e975bdc2c7f2e96a838a.jpg' width='200"'>
@@ -38,6 +38,9 @@ I am a student,  From very early on in my life, I started to fall in love with t
 <td width="25%" align="center">
 <span><strong>Java</strong></span><br/>
 <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
+<td width="25%" align="center">
+<span><strong>Python</strong></span><br/>
+<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">	
 </td>
 
 </tr>
@@ -93,6 +96,10 @@ I am a student,  From very early on in my life, I started to fall in love with t
 <td width="50%" align="center">
 <span><strong>SpringBoot</strong></span><br/>
 <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/spring.svg">
+<td width="50%" align="center">
+<span><strong>FastApi</strong></span><br/>
+<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/fastapi.svg">
+	
 </td>
 </tr>
 </tbody>
