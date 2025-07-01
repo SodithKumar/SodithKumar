@@ -118,8 +118,10 @@ I am a student,  From very early on in my life, I started to fall in love with t
 <!-- Social Sites & Connecting -->
 ## Connect With Me On - 
 
-<a href="https://www.linkedin.com/in/sodithkumar/" title="LinkedIN">
-	<img align="left" alt="LinkedIN" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/sodithkumar/" title="LinkedIn">
+  <img align="left" alt="LinkedIn" height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+</a>
+
 </a>
 </p>
 <br/>
