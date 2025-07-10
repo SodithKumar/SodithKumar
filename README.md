@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi 👋, I'm Sodith Kumar <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
+<h1 align="center"> Hi 👋, I'm Sodith Yadav <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
 <div align="center">
 ❤️ Backend Developer | 🖤 Java Developer | 💙 Python Developer
 </div>
